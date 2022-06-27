@@ -1,0 +1,19 @@
+1.Netflix, Airbnb, Spotify
+
+
+2. Netflix : JS, Java, Kotlin, and Swift
+  sourse 1 : https://maddevs.io/blog/tech-stack-of-prominent-companies/
+  sourse 2: https://www.zype.com/blog/netflix-tech-stack
+  sourse 3: https://stackshare.io/netflix/netflix
+  sourse 4:https://www.glassdoor.com/Job/los-gatos-ca-senior-front-end-engineer-jobs-SRCH_IL.0,12_IC1147427_KO13,38.htm?src=GD_JOB_AD&rdserp=true&srs=EI_JOBS&jl=1007873639102&ao=1136043&s=21&guid=00000181a28abc988fd813e0ba451795&pos=101&t=ESR&vt=w&uido=02CB14F7338FD87723F915037D476448&cs=1_c7b64945&cb=1656289410649&jobListingId=1007873639102&jrtk=3-0-1g6h8lfemkltp801-1g6h8lffgg2oi800-27fb86eeacd7b93b-
+
+  Airbnb:  Ruby,React, JS
+  sourse 1: https://aws.amazon.com/solutions/case-studies/airbnb-case-study/
+  sourse 2: https://stackshare.io/airbnb/airbnb
+  sourse 3: https://rentcubo.com/what-should-be-the-tech-stack-to-build-a-airbnb-like-app/
+
+3. Spotify: Python, Java, Nginx, SQL, Bootsreap
+  sourse 1: https://stackshare.io/spotify/spotify
+  sourse 2: https://engineering.atspotify.com/2021/04/building-the-future-of-our-desktop-apps/
+  sourse 2: https://medium.com/@saranyar645/spotify-tech-stack-72c34dba1d3e
+
